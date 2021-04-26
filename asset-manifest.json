@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NidhiKairo/messenger-clone.git/static/css/main.afd1d5c3.chunk.css",
+    "main.js": "/NidhiKairo/messenger-clone.git/static/js/main.734732be.chunk.js",
+    "main.js.map": "/NidhiKairo/messenger-clone.git/static/js/main.734732be.chunk.js.map",
+    "runtime-main.js": "/NidhiKairo/messenger-clone.git/static/js/runtime-main.3714a878.js",
+    "runtime-main.js.map": "/NidhiKairo/messenger-clone.git/static/js/runtime-main.3714a878.js.map",
+    "static/js/2.40d2d507.chunk.js": "/NidhiKairo/messenger-clone.git/static/js/2.40d2d507.chunk.js",
+    "static/js/2.40d2d507.chunk.js.map": "/NidhiKairo/messenger-clone.git/static/js/2.40d2d507.chunk.js.map",
+    "static/js/3.3e13fd02.chunk.js": "/NidhiKairo/messenger-clone.git/static/js/3.3e13fd02.chunk.js",
+    "static/js/3.3e13fd02.chunk.js.map": "/NidhiKairo/messenger-clone.git/static/js/3.3e13fd02.chunk.js.map",
+    "index.html": "/NidhiKairo/messenger-clone.git/index.html",
+    "static/css/main.afd1d5c3.chunk.css.map": "/NidhiKairo/messenger-clone.git/static/css/main.afd1d5c3.chunk.css.map",
+    "static/js/2.40d2d507.chunk.js.LICENSE.txt": "/NidhiKairo/messenger-clone.git/static/js/2.40d2d507.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3714a878.js",
+    "static/js/2.40d2d507.chunk.js",
+    "static/css/main.afd1d5c3.chunk.css",
+    "static/js/main.734732be.chunk.js"
+  ]
+}
